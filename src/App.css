@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.wallet-form input {
+  width: 400px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.wallet-form button {
+  padding: 5px;
+  width: 80px;
+}
+
+.nft-dashboard {
+  margin: 50px auto;
+  text-align: left;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.nft-dashboard img {
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: block;
+}
+
+.nft {
+  margin: 10px;
+  text-align: center;
+}
